@@ -1,4 +1,4 @@
-package no.hvl.JPL9.tests;
+package no.hvl.JPL9;
 
 import static org.junit.Assert.*;
 
